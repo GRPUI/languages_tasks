@@ -12,7 +12,7 @@ def array_diff(a, b):
     return list(filter(lambda x: x not in b, a))
     
 if __name__ == "__main__":
-  print(array_diff([-17, 0], [-13, 0, 12, 0, -17, 6, -8, 15]))
+    print(array_diff([-17, 0], [-13, 0, 12, 0, -17, 6, -8, 15]))
   #ожидаемый вывод: []
   
 '''
