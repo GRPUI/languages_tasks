@@ -6,4 +6,4 @@
 
 Также для дополнительной информации переходите в telegram-бот @sgugitlang_bot.
 
-![Hey](https://github.com/GRPUI/languages_tasks/actions/workflows/greeting.yml/badge.svg)
+![Greetings](https://github.com/GRPUI/languages_tasks/actions/workflows/greetings.yml/badge.svg?branch=main&event=status)(https://github.com/GRPUI/languages_tasks/actions/workflows/greetings.yml)
