@@ -5,3 +5,5 @@
 Каждая из задач находится в telegram-боте @sgugitlang_bot.
 
 Также для дополнительной информации переходите в telegram-бот @sgugitlang_bot.
+
+![Hey](https://github.com/GRPUI/languages_tasks/actions/workflows/greeting.yml/badge.svg)
